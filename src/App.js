@@ -1,5 +1,6 @@
 import PhotoComponent from "./components/PhotoComponent";
 import {useEffect, useState} from 'react'
+import './App.css'
 
 function App() {
   const apiKey = `Q5exGeTcvzE68bllFZ7CnLlzXqnIsMJqNbCnoa2gA-8`
